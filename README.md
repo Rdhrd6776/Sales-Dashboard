@@ -51,4 +51,4 @@ Connection Stability: Unlike Excel-to-Power BI connections, which are temporary 
 Automation: By using Python for ETL, the manual work of applying Excel formulas is replaced by an automated script that handles large data sets much faster
 Decision Making: The transition from raw data to visual insights allows management to make faster decisions based on regional and product-specific trends
 
-Dashboard image: - !(https://github.com/Rdhrd6776/Sales-Dashboard/blob/main/Sale_Dashboard.png)
+Dashboard image: ![Dshboard](https://github.com/Rdhrd6776/Sales-Dashboard/blob/main/Sale_Dashboard.png)
